@@ -1,0 +1,2 @@
+TinyGPSPlus
+SoftwareSerial (Built-in)
